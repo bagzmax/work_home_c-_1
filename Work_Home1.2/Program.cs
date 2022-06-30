@@ -15,13 +15,13 @@ if (numberA == numberB)
 }
 else { if (numberA > numberB)
 {
-    System.Console.WriteLine("max= " + max);
-    System.Console.Write("min= " + min);
+    System.Console.WriteLine("Максимальное число = " + max);
+    System.Console.Write("Минимальное число = " + min);
 }
 else
 {
-   System.Console.WriteLine("max= " + min);
-   System.Console.Write("min= " + max);
+   System.Console.WriteLine("Максимальное число = " + min);
+   System.Console.Write("Минимальное число = " + max);
 }
 }
 

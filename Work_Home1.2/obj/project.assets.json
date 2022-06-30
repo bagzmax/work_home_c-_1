@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Пользователь\\Downloads\\GIT\\work_home_c#_1\\Examples work_home\\Work_Home1.1\\Work_Home1.1.csproj",
-      "projectName": "Work_Home1.1",
-      "projectPath": "C:\\Users\\Пользователь\\Downloads\\GIT\\work_home_c#_1\\Examples work_home\\Work_Home1.1\\Work_Home1.1.csproj",
+      "projectUniqueName": "C:\\Users\\Пользователь\\Downloads\\GIT\\work_home_c#_1\\Examples work_home\\Work_Home1.2\\Work_Home1.2.csproj",
+      "projectName": "Work_Home1.2",
+      "projectPath": "C:\\Users\\Пользователь\\Downloads\\GIT\\work_home_c#_1\\Examples work_home\\Work_Home1.2\\Work_Home1.2.csproj",
       "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Пользователь\\Downloads\\GIT\\work_home_c#_1\\Examples work_home\\Work_Home1.1\\obj\\",
+      "outputPath": "C:\\Users\\Пользователь\\Downloads\\GIT\\work_home_c#_1\\Examples work_home\\Work_Home1.2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config"
