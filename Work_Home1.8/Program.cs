@@ -4,14 +4,16 @@
 Console.Write("Введите число: ");
 int N = int.Parse(Console.ReadLine());
 
-int number = 1;
+//int number = 1;
+int number = 2;
 
 while (number <= N)
 {
-    if (number % 2 == 0)
-{
-    System.Console.WriteLine(number);
-}
-  number++;
+    //if (number % 2 == 0)
+    //{
+System.Console.WriteLine(number);
+    //}
+number+=2;
+  
 }
 
