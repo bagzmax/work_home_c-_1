@@ -9,20 +9,20 @@ int numberB = int.Parse(Console.ReadLine());
 int max = numberA;
 int min = numberB;
 
-if (numberA == numberB)
+if (max == min)
 {
     System.Console.WriteLine("Равные числа");
 }
-else { if (numberA > numberB)
-{
-    System.Console.WriteLine("Максимальное число = " + max);
-    System.Console.Write("Минимальное число = " + min);
-}
 else
-{
-   System.Console.WriteLine("Максимальное число = " + min);
-   System.Console.Write("Минимальное число = " + max);
+{ if (max < min)
+   { max = numberB;
+     min = numberA;
+   }  
+     System.Console.WriteLine("Максимальное число = " + max);
+     System.Console.Write("Минимальное число = " + min);
 }
-}
+
+
+
 
  
